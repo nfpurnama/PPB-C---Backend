@@ -1,2 +1,4 @@
 model/data/
 __pycache__/
+model/*.h5
+model/*.txt
